@@ -1,6 +1,6 @@
 # Actix Test Project
 
-This project is a simple web application built using the Actix framework in Rust. Runs a webserver and displays a basic landing page.
+This project is a simple web application built using the Actix framework in Rust. Runs a webserver and displays a basic landing page with some embeded HTML.
 
 ## Prerequisites
 
